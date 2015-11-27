@@ -125,7 +125,7 @@ and open the template in the editor.
                         <fields>
                             <ippair translate="label">
                                 <label>GeoIP Pairing</label>
-                                <frontend_model>juicy_geoip_block_countrydefine</frontend_model>
+                                <frontend_model>geoip/countrydefine</frontend_model>
                                 <backend_model>adminhtml/system_config_backend_serialized_array</backend_model>
                                 <sort_order>0</sort_order>
                                 <show_in_default>1</show_in_default>
